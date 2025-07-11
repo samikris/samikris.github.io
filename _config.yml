@@ -45,7 +45,12 @@ repo_trophies:
 # -----------------------------------------------------------------------------
 # Layout
 # -----------------------------------------------------------------------------
-
+navbar:
+  - page: about
+    dropdown: false
+  - page: projects  
+    dropdown: false
+    
 navbar_fixed: true
 footer_fixed: true
 search_enabled: true
