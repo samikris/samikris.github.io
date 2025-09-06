@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Samiksha Krishnamurthy",
+    "label": "Undergraduate @ UCLA",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "samikris[at]g[dot]ucla[dot]edu",
+    "url": "https://samikris.github.io",
+    "summary": "Second year EE student interested in the intersection of physics, engineering, and computing",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
       "city": "San Francisco",
       "countryCode": "US",
       "region": "California"
+      
     },
     "profiles": [
       {
@@ -24,16 +24,15 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Varney Geospace Research Group",
+      "position": "Undergraduate Researcher",
+      "startDate": "2025-01-01",
+      "endDate": "Present",
+      "summary": "__",
       "highlights": ["Relativity"]
     }
   ],
-  "volunteer": [
+  "--": [
     {
       "organization": "People's Climate March",
       "location": "Zurich, Switzerland",
@@ -47,18 +46,16 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of California Los Angeles",
+      "location": "Los Angeles, California",
+      "major": "electrical engineering",
+      "studyType": "B.S.",
+      "startDate": "2024-09-21",
+      "endDate": "2028-06-10",
+      "courses": ["Physics: Mechanics (1A), Oscillations, Waves, Electric and Magnetic Fields (1B), Electricity and Magnetism (1C)"]
     }
   ],
-  "awards": [
+  "award-s": [
     {
       "title": "Nobel Prize in Physics",
       "date": "1921-11-01",
@@ -69,49 +66,35 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
+      "name": "Supervised Machine Learning",
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
+      "name": "Advanced Algorithms",
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
+      "name": "Pulsar Science Colaboratory",
       "date": "2018-01-01",
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-calendar"
     },
     {
-      "name": "Quantum Teleportation",
+      "name": "Deep Learning Essentials",
       "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "issuer": "Lightning AI",
       "url": "https://example.com",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
-  "publications": [
+  "publ-ications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
       "publisher": "Annalen der Physik",
@@ -151,13 +134,13 @@
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "French",
+      "fluency": "Basic",
       "icon": ""
     },
     {
       "language": "English",
-      "fluency": "Fluent",
+      "fluency": "Native Language",
       "icon": ""
     }
   ],
@@ -177,23 +160,23 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Professor Roger Varney",
       "icon": "fa-solid fa-laptop",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
+      "name": "Professor Tuan Do",
       "icon": "fa-solid fa-thumbtack",
       "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
+      "name": "Using Eye Condition to Predict Blood Pressure",
+      "summary": "I came up with a project idea to apply what I had learned in online courses to a personal problem. I aimed to answer the driving question: "Can Eye Appearance Be Used to Predict High Blood Pressure?". Using iPhone photos, colab, neural networks, and the Fast.Ai visual classification library to build a basic model that would help determine if blood pressure is learnable from eye features. The NN could classify eye images as high or low blood pressure based on specific features. I'm currently working on a CNN  the utilizes Pytorch and Lightning AI, as well as developing a more controlled dataset.",
+      "highlights": ["machine learning", "computer vision"],
+      "startDate": "2023-03-02",
+      "endDate": "Present",
       "url": "https://example.com"
     }
   ]

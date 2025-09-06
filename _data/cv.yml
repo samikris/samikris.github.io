@@ -2,96 +2,76 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Samiksha Krishnamurthy
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Electrical Engineering B.S.
+      institution: University of California, Los Angeles
+      year: 2024 - 2028
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Intended technical breadth in Physics
+
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Undergraduate Researcher
+      institution: Astrophysics Datalab @ UCLA
+      year: 2025 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Developing deep learning architectures for multimodal galaxy data (HSC imaging and DESI spectroscopy)
+        - Building end-to-end model pipelines in pytorch, including Pytorch dataloaders for DESI data (HDF5), MMAE model families to handle missing modality
+    - title: Undergraduate Researcher
+      institution: Varney Geospace Research Group @ UCLA
+      year: 2025 - Present
+      description:
+        - Studying how solar activity parameters (F10.7 index, solar zenith angle) control the electron temperature in the polar cap ionosphere
+        - title: Detrending HDF5-encoded data from RISR-N and developing an empirical model using Python (scipy, pySPEDAS) for electron temperature
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Presented at Undergraduate Research Week 2025
+
+    - title: Student Researcher
+      institution: Pulsar Science Colaboratory (NANOgrav)
+      year: 2023 - Present
       description:
-        - Description 1.
-        - Description 2.
+        - Currently contributing to upcoming research paper, Giant Pulse Correlation with Timing Deviations in the Crab Pulsar
+        - Developed timing model of the Giant Crab Pulsar - extracted pulse times-of arrival from Green Bank telescope data, fit for model parameters, and analyzed post-fit residuals
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+#- title: Projects
+#  type: time_table
+#  contents:
+#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#      year: 2015-now
+ #     description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Certifications
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Deep Learning Fundamentals - Lightning AI
+    - year: 2023
       items:
-        - Max Planck Medal
+        - Advanced Learning Algorithms - DeepLearning.AI
+        - Supervised Machine Learning - DeepLearning.AI
+        - Pulsar Plot Proficiency - Pulsar Science Colaboratory
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Scientific Applications of Machine Learning
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - How can we use machine learning in different disciplines to improve experiments and understand physical phenomena better?
+        - Optimizing sensors and instrumentation
+    - title: Sustainability
       items:
-        - Description 1.
-        - Description 2.
+        - Improved hardware (ie. energy efficient chip design) for ML
+        - Technology for nuclear energy
+        - Clean energy vehicles
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+#- title: Other Interests
+#  type: list
+ # contents:
+  #  - <u>Hobbies:</u> Guitar, Reading, Kickboxing
