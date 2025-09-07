@@ -75,6 +75,3 @@ hr.post-divider {
   <hr class="post-divider">
 
 </div>
-
-
-

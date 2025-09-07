@@ -13,7 +13,6 @@
       description:
         - Intended technical breadth in Physics
 
-
 - title: Experience
   type: time_table
   contents:
@@ -44,7 +43,7 @@
 #  contents:
 #    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
 #      year: 2015-now
- #     description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+#     description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Certifications
   type: time_table
@@ -70,8 +69,7 @@
         - Improved hardware (ie. energy efficient chip design) for ML
         - Technology for nuclear energy
         - Clean energy vehicles
-
 #- title: Other Interests
 #  type: list
- # contents:
-  #  - <u>Hobbies:</u> Guitar, Reading, Kickboxing
+# contents:
+#  - <u>Hobbies:</u> Guitar, Reading, Kickboxing

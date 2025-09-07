@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 nav: true
 nav_order: 3
-markdown: kramdown  # Explicitly set markdown processor
+markdown: kramdown # Explicitly set markdown processor
 ---
 
 <style>
@@ -33,7 +33,6 @@ markdown: kramdown  # Explicitly set markdown processor
   }
 }
 </style>
-
 
 <div class="project-container">
   <div class="project-image">
@@ -78,7 +77,6 @@ markdown: kramdown  # Explicitly set markdown processor
   </div>
 </div>
 
-
 <div class="project-container">
   <div class="project-image">
     <img src="/assets/img/bp.jpg" alt="BP Project">
@@ -105,5 +103,3 @@ markdown: kramdown  # Explicitly set markdown processor
     <p> 🔗<a href="/assets/pdf/P225_KrishnamurthySamiksha_Documentation.pdf" target="_blank">Documentation</a></p>
   </div>
 </div>
-
-
