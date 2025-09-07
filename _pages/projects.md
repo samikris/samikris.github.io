@@ -2,10 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: <p> My research projects span several domains and have given me exposure to working with real data from instrumentation. I hope to get involved with more hands-on research involving instrumentation, embedded systems, and circuit design. </p>
-
 nav: true
 nav_order: 3
+markdown: kramdown  # Explicitly set markdown processor
 ---
 
 <style>
@@ -35,7 +34,6 @@ nav_order: 3
 }
 </style>
 
-## research
 
 <div class="project-container">
   <div class="project-image">
@@ -81,15 +79,12 @@ nav_order: 3
 </div>
 
 
-
-## personal
-
 <div class="project-container">
   <div class="project-image">
     <img src="/assets/img/bp.jpg" alt="BP Project">
   </div>
   <div class="project-content">
-    <h3>Understanding the Correlation Between Blood Pressure and Eye Condition</h3>
+    <h3>Understanding the Correlation Between Blood Pressure and Eye Condition with ML</h3>
     <p><em> March 2023 </em></p>
     <p>Growing up, the combination of my father’s heart condition and hypertension made it crucial for us to monitor exactly when his blood pressure was high. I started noticing that when he took higher readings with his blood pressure monitor, his eyes would typically be more bloodshot and puffy. This led me to ask the following question: how do changes in blood pressure relate to eye condition?</p>
     <p> To answer this, I collected images of his eyes and their corresponding blood pressure labels for three months. I turned to machine learning to help me discern this relationship by building a small image classifier with fast.ai. Given an image of the eyes, if there is actually a relationship with blood pressure and eye condition, the model would be able to predict whether it’s high or low. The model had ~60% prediction accuracy on a test set, but this small application of machine learning was my first introduction to how it could be used in healthcare.</p>
@@ -106,8 +101,9 @@ nav_order: 3
   <div class="project-content">
     <h3>Light Sensing PCB </h3>
     <p><em>March 2023</em></p>
-    <p>In my digital electronics class, I designed and fabricated a light sensing PCB board from start to finish. This project taught me how to use Fusion 260 Circuit Design to build a schematic and use a PCB layout for routing. I also learned about the intensive manufacturing process, from masking a board, drilling holes, and soldering in components. </p>
+    <p>As the final project in my digital electronics class, I had the opportunity to design and fabricate a light sensing PCB board from start to finish. Using Fusion 360 Circuit Design, I developed a schematic and used a PCB layout for routing. I was also involved in the manufacturing process, which included masking a board, drilling holes, and soldering in components. </p>
     <p> 🔗<a href="/assets/pdf/P225_KrishnamurthySamiksha_Documentation.pdf" target="_blank">Documentation</a></p>
   </div>
 </div>
+
 
