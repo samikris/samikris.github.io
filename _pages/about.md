@@ -24,6 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-hi, i'm Samiksha, a second-year electrical engineering student with a tech breadth in physics. i'm interested in applying machine learning to understand physical phenomena and improve sensors and instrumentation, while building hands-on skills in circuit design and embedded systems. i'm particularly excited about the intersection of hardware and algorithms in sustainable energy solutions and intelligent sensor development.
+hi, i'm Samiksha, a second year electrical engineering student with a tech breadth in physics. i'm interested in applying machine learning to understand physical phenomena and improve sensors and instrumentation, while building hands-on skills in circuit design and embedded systems. i'm particularly excited about the intersection of hardware and algorithms in sustainable energy solutions and intelligent sensor development.
 
 feel free to reach out to me at samikris24[at]g[dot]ucla[dot]edu!
