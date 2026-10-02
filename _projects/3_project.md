@@ -1,25 +1,24 @@
 ---
 layout: page
-title: Micromouse
-description: a project that redirects to another website
+title: IEEE Micromouse 
+description: 2025 - 2026
 img: assets/img/7.jpg
 redirect: https://www.wikipedia.org/
 importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Collaborated on a team to engineer an autonomous, maze-solving robot from the ground up. This project served as my foundational experience in embedded systems, requiring tight integration between physical circuit design and C-based control logic to successfully navigate a physical race course.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+[Insert mouse PCB and physical robot images here]
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Technical Highlights:
+
+Hardware Design: Executed schematic capture and PCB layout integrating an STM32 microcontroller, H-bridge motor drivers, voltage regulators, and IR sensors.
+
+Manufacturing: Fully assembled and surface-mount soldered the custom PCB.
+
+Embedded Software: Programmed the STM32 in C to execute closed-loop PID motor control and a flood-fill pathfinding algorithm based on real-time IR sensor telemetry.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

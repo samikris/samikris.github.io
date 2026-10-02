@@ -1,24 +1,23 @@
 ---
 layout: page
-title: Astrophysics Datalab REU Project
-description: another without an image
+title: UCLA Astrophysics Data Lab
+description: Undergraduate Researcher (UCLA Physics REU) | Summer 2025 – Present
 img:
 importance: 3
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Selected for the 2025 Physics Research Experiences for Undergraduates (REU) program to develop machine learning architectures for astronomical data. My research focuses on building robust deep learning models to predict galaxy redshifts from massive, complex datasets containing both imaging and spectroscopic data. This work culminated in a poster presentation at NeurIPS ML4PS 2025 and ongoing benchmarking of novel architectures against industry standards like QuasarNET.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+[Insert link to NeurIPS Poster/Slides here]
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Technical Highlights:
+
+Deep Learning Architectures: Designed and trained CNNs, Vision Transformers, and autoencoders (MMAE) using PyTorch.
+
+Data Pipelining: Built end-to-end Python data pipelines and custom dataloaders capable of handling multimodal inputs and missing modalities (absent spectra).
+
+Scientific Visualization: Developed interpretability visualizations to translate complex model behaviors into actionable insights for the physics community.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
