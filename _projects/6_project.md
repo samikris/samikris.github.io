@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 6
+title: Projects prior to 2024
 description: a project with no image
 img:
 importance: 4

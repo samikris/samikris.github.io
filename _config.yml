@@ -7,7 +7,7 @@ first_name: Samiksha
 middle_name: ""
 last_name: Krishnamurthy
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Electrical Engineering undergraduate at UCLA exploring in power electronics, analog circuit design, and machine learning research.
+  Electrical Engineering undergraduate at UCLA exploring power electronics, analog circuit design, and machine learning research.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
