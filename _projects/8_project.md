@@ -1,25 +1,20 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: Varney Geospace Project
+description: Modeling Electron Temperature in the Polar Cap Ionosphere 
+img: assets/img/1.jpg
+importance: 3
+category: fun
 ---
+My first technical research role, focusing on utilizing computational data analysis to understand physical geospace phenomena. The project objective was to develop an empirical mathematical model relating electron temperatures in the polar cap ionosphere to solar conditions (Solar Zenith Angle and F10.7 index) using Resolute Bay Incoherent Scatter Radar (RISR-N) telemetry.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+[Insert link to Report and Undergraduate Research Week Slides here]
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Technical Highlights:
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Data Processing: Cleaned and processed large-scale physical datasets (HDF5 format) using Python libraries (SciPy, NumPy, Matplotlib).
+
+Empirical Modeling: Applied statistical analysis to interpret raw radar telemetry and represent physical ionospheric behaviors as mathematical functions.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
