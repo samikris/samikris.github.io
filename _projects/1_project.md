@@ -1,11 +1,11 @@
 ---
 layout: page
 title: The Aerospace Corporation
-description: Analog and Power Systems Intern - Summer 2026
+description: Analog and Power Systems Intern | Summer 2026
 img: assets/img/12.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 This experience really shifted my engineering perspective from theoretical math to physical hardware. I spent the summer bridging the gap between ideal circuit calculations and real-world testing, specifically focusing on the behaviors of 3-terminal active devices. I would simulate baseline behaviors and then move directly to the bench to physically debug and confirm those calculations using instruments (oscilloscopes, Omicron Bode 100, Source Measure Units). Beyond physical circuits, I also gained exposure to industry-standard power systems modeling by analyzing the state of charge in nickel-hydrogen batteries. 

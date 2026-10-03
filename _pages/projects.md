@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: here are some of my projects from college so far! 
+description: here are some of my projects from college so far! this website was also created by me :D
 nav: true
 nav_order: 3
 display_categories: [work, fun]
