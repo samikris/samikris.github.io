@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The Aerospace CorporationAnalog and Power Systems Intern 
-description: Summer 2026
+title: The Aerospace Corporation
+description: Analog and Power Systems Intern  - Summer 2026
 img: assets/img/12.jpg
 importance: 1
 category: work
