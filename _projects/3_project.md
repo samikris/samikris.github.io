@@ -1,13 +1,13 @@
 ---
 layout: page
 title: IEEE Micromouse 
-description: 2025 - 2026
+description: Project Member | September 2025 - May 2026
 img: assets/img/7.jpg
 importance: 3
 category: work
 ---
 
-Collaborated on a team to engineer an autonomous, maze-solving robot from the ground up. This project served as my foundational experience in embedded systems, requiring tight integration between physical circuit design and C-based control logic to successfully navigate a physical race course.
+I collaborated with my peers to engineer an autonomous, maze-solving robot from the ground up. This project served as my foundational experience in embedded systems, requiring tight integration between physical circuit design and C-based control logic to successfully navigate a physical race course.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
